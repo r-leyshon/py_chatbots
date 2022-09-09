@@ -1,2 +1,2 @@
 ipykernel==6.15.2
-pre-commit==2.20.0
+pre-commit
