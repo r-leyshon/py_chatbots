@@ -1,4 +1,4 @@
 ipykernel==6.15.2
 pre-commit
 spacy==2.0.9
-https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.4.0/en_core_web_sm-3.4.0-py3-none-any.whl #en_core_web_sm
+https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.4.0/en_core_web_md-3.4.0-py3-none-any.whl # spacy model with word vectors
