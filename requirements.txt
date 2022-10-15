@@ -3,6 +3,7 @@ numpy
 pandas
 pre-commit
 pyprojroot
-scikit-learn==1.1.2
-spacy==2.0.9
-https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.4.0/en_core_web_md-3.4.0-py3-none-any.whl # spacy model with word vectors
+scikit-learn
+spacy
+#https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.4.0/en_core_web_md-3.4.0-py3-none-any.whl # spacy model with word vectors
+flask
