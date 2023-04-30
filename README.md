@@ -2,7 +2,7 @@
 
 ## Learning materials in chatbot development
 
-### Index
+### Python Chatbots
 
 * 1.build_a_bot
 
@@ -65,7 +65,9 @@ Read through [FB webhook documentation](https://developers.facebook.com/docs/mes
 to ensure the server handles the request in  the expected way - possible breaking
 changes.
 
-
-
 * [Explore the RASA training.](https://rasa.com/docs/rasa/) - Once oriented around v3,
 `./1.build_a_bot/` could be updated for compatoble with latest v of API.
+
+### Prompt Engineering with LLMs
+
+Notes from free [DeepLearning.AI course](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/).
